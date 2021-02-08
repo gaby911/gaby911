@@ -4,19 +4,19 @@ Hi! I'm Gabi, a self-taught programmer living in Bucharest, Romania.
 
 # How To Reach Me
 <a href = "https://www.linkedin.com/in/florin-gabriel-abagiu-08090361/">
-    <img src = "Logos/LinkedIn.png" width = "auto" height = "40px" />
+    <img src = "Logos/LinkedIn.png" width = "auto" height = "40px" target="_blank" />
 </a>
 
 <a href = "https://www.facebook.com/profile.php?id=100001690123775">
-    <img src = "Logos/Facebook.png" width = "auto" height = "50px" />
+    <img src = "Logos/Facebook.png" width = "auto" height = "40px" target="_blank" />
 </a>
 
 <a href = "https://www.instagram.com/floringabriel__/?hl=ro">
-    <img src = "Logos/Instagram.png" width = "auto" height = "50px" />
+    <img src = "Logos/Instagram.png" width = "auto" height = "40px" target="_blank" />
 </a>
 
 <a href = "https://wa.me/+40769472357">
-    <img src = "Logos/WhatsApp.png" width = "auto" height = "50px" />
+    <img src = "Logos/WhatsApp.png" width = "auto" height = "40px" target="_blank"/>
 </a>
 
 
