@@ -12,5 +12,5 @@ Hi! I'm Gabi, a self-taught programmer living in Bucharest, Romania.
 </a>
 
 <a href = "https://github.com/gaby911?tab=repositories">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gabin&langs_count=10&theme=dark&layout=compact&card_width=270" align = "center" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gaby911&langs_count=10&theme=dark&layout=compact&card_width=270" align = "center" />
 </a>
