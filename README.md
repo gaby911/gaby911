@@ -7,18 +7,9 @@ Hi! I'm Gabi, a self-taught programmer living in Bucharest, Romania.
     <img src = "Logos/LinkedIn.png" width = "auto" height = "40px" target="_blank" />
 </a>
 
-<a href = "https://www.facebook.com/profile.php?id=100001690123775">
-    <img src = "Logos/Facebook.png" width = "auto" height = "40px" target="_blank" />
-</a>
-
 <a href = "https://www.instagram.com/floringabriel__/?hl=ro">
     <img src = "Logos/Instagram.png" width = "auto" height = "40px" target="_blank" />
 </a>
-
-<a href = "https://wa.me/+40769472357">
-    <img src = "Logos/WhatsApp.png" width = "auto" height = "40px" target="_blank"/>
-</a>
-
 
 # Stats
 <a href = "https://github.com/gaby911?tab=repositories">
